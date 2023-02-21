@@ -30,6 +30,4 @@ jobs:
         with:
           context: .
           push: true
-          tags:
-            - registry.gitlab.com/ronalmog/realio
-            - latest
+          tags: registry.gitlab.com/ronalmog/realio:latest
