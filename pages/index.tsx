@@ -14,7 +14,10 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className={styles.main}>hello worldyyy!</main>
+      <main className={styles.main}>
+        <h1 className="text-teal-900">hello worldyyy!</h1>
+        <h4>with all the details here</h4>
+      </main>
     </>
   );
 }
