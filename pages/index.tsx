@@ -15,7 +15,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className={styles.main}>
-        <h1 className="text-teal-900">hello worldyyy!</h1>
+        <h1 className="text-teal-900 bg-yellow-200 font-semibold text-xl">
+          hello worldyyy!
+        </h1>
         <h4>with all the details here</h4>
       </main>
     </>
