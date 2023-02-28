@@ -18,7 +18,9 @@ export default function Home() {
         <h1 className="text-teal-900 bg-yellow-200 p-3 font-semibold text-xl">
           hello worldyyy!
         </h1>
-        <h4>with all the details here</h4>
+        <h4 className="p-4 bg-teal-200 rounded-md text-lg font-semibold">
+          with all the details here
+        </h4>
       </main>
     </>
   );
