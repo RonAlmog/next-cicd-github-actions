@@ -19,7 +19,7 @@ export default function Home() {
           hello worldyyy!
         </h1>
         <h4 className="p-4 bg-teal-200 rounded-md text-lg font-semibold">
-          with all the details here!!X
+          with all the details here!!XYZ
         </h4>
       </main>
     </>
